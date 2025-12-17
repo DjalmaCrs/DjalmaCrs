@@ -64,6 +64,10 @@ margin: 0px 0px 0px 0px;
     font-weight: bold;
     min-width: 217px;
 }
+.botao:hover {
+    background: #2E4A2E;
+    text-decoration: none;
+}
 .sobre{
     min-height: 790px;
     width: 100%;
@@ -232,3 +236,4 @@ flex-direction: column;
     width: 100px;
 
 }
+
