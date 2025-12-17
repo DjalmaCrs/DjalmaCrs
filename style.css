@@ -11,7 +11,7 @@ html {
     scroll-behavior: smooth;
 }
 .cabecalho {
-    
+    z-index: 2;
     opacity: 0.6;
     justify-content: center;
     display: flex;
@@ -230,4 +230,5 @@ flex-direction: column;
 }
 .infrodape{
     width: 100px;
+
 }
